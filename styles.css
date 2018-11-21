@@ -1,0 +1,14 @@
+h1 {
+    text-align:center;
+}
+.teen {
+    border:dotted red;
+    color:red;
+}
+img{ 
+    height: 300px;
+}
+.ni {
+    border:solid blue;
+    color:blue;
+}
